@@ -37,7 +37,7 @@ $ mvnw clean install
 
 ### How to get coverage test
 
-Execute:
+Executek:
 
 ```shell
 $ mvwn -B package -DskipTests --file pom.xml
